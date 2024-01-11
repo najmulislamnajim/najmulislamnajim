@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Najmul Islam Najim</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate back-end Developer from Bangladesh</h3>
 <img align="right" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najmulislamnajim&label=Profile%20views&color=0e75b6&style=flat" alt="najmulislamnajim" /> </p>
